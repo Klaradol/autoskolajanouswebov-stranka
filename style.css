@@ -1,0 +1,52 @@
+.navbar {
+    background-color: rgb(230, 8, 8);
+    padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body{
+    margin:color red;
+}
+.navbar a{
+    color:whitesmoke;
+    text-decoration: none;
+   font-size: x-large;
+}
+.navbar a:hover{
+    color: rgb(14, 2, 2);
+}
+.mainPageContairne{
+    display: flex;
+    justify-content:space-around ;
+    color: black;
+}
+.headMainPage{
+    margin-top: 180px;
+}
+.nasesluzby{
+background-color: rgb(243, 5, 5);
+color: aliceblue;
+padding: 40px;
+display: flex;
+flex-direction:row ;
+}
+.nasesluzby {
+    display: flex;
+    flex-direction: column;
+}
+.containerRows{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.whyUsContainer{
+    display: flex;
+    flex-direction: row;
+}
+.whyUsBlock{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 40px;
+}
